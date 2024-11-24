@@ -1,10 +1,10 @@
 import React from 'react'
-import tbg from '../images/tbg.svg'
+import tbg from '../images/tbg.png'
 import t1 from '../images/t1.png'
 import tik from '../icons/tik.svg'
 import tik2 from '../icons/tik2.svg'
 import t2 from '../images/t2.png'
-import tcardbg from '../images/tcardbg.svg'
+import tcardbg from '../images/tcardbg.png'
 import t3 from '../images/t3.png'
 
 function Transform() {
