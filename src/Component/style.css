@@ -1,0 +1,22 @@
+.myBtn {
+  padding: 16px 28px;
+  border-radius: 39px;
+  background: linear-gradient(180deg, #c83202 0%, #f57924 100%);
+}
+.myBtn2 {
+  padding: 14px 28px;
+  border-radius: 39px;
+  border: 1px solid #f7f7f7;
+}
+.myBtn2:hover {
+  background: linear-gradient(180deg, #c83202 0%, #f57924 100%);
+  color: white;
+  padding: 16px 28px;
+  border: none;
+}
+
+.tbg {
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.05);
+  box-shadow: 4px 5px 10px -6px rgba(255, 117, 25, 0.02);
+}
